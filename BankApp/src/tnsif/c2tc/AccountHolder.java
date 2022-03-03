@@ -17,5 +17,4 @@ public class AccountHolder {
 	ca.withdraw(500);
 
 	}
-
 }
